@@ -1,0 +1,9 @@
+﻿{
+  "name": "kunjie-ai-diagnosis-mobile-v4",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node server.mjs",
+    "check": "node --check app.js && node --check model.mjs && node --check server.mjs && node --check engine.mjs && node checks.mjs"
+  }
+}

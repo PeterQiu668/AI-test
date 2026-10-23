@@ -1,0 +1,9 @@
+{
+  "name": "鲲界企业 AI 诊断",
+  "short_name": "鲲界诊断",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a1020",
+  "theme_color": "#0a1020",
+  "icons": [{ "src": "/assets/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
